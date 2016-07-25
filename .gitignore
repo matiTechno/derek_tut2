@@ -1,0 +1,15 @@
+# ignore all
+
+*
+
+# except
+
+!*.md
+!.gitignore
+
+# and c/c++ files
+
+!*.cpp
+!*.c
+!*.hpp
+!*.h
