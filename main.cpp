@@ -4,6 +4,7 @@
 int main()
 {
 	std::cout << "Hello World!" << std::endl;
+	std::string hello("lolol");
 	return 0;
 }
 
